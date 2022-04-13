@@ -1,3 +1,12 @@
 .instructions {
-    color:red
+    color:red;
+    font-family: Arial, Helvetica, sans-serif;
 }
+ body {
+     background-color: lightblue;
+ }
+
+img {
+     width: 500;
+     height: auto;
+ }
