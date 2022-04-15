@@ -10,3 +10,9 @@ img {
      width: 500;
      height: auto;
  }
+h1,h2,h3 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: red;
+     text-align: center;
+  }
